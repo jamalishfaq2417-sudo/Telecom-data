@@ -1,0 +1,601 @@
+tower_id,city,province,technology,site_type,status,capacity_mbps,installed_date
+TWR00001,Mardan,KPK,4G,Rooftop,Active,1500,2023-10-06
+TWR00002,Lahore,Punjab,4G,Macro,Active,1500,2026-04-13
+TWR00003,Faisalabad,Punjab,4G,Macro,Active,2000,2025-12-31
+TWR00004,Lahore,Punjab,4G/5G,Macro,Active,2000,2025-04-17
+TWR00005,Lahore,Punjab,4G/5G,Macro,Active,2000,2024-06-25
+TWR00006,Mingora,KPK,4G,Rooftop,Active,1500,2018-03-30
+TWR00007,Lahore,Punjab,5G,Macro,Degraded,500,2024-02-09
+TWR00008,Mardan,KPK,5G,Macro,Active,2000,2022-09-24
+TWR00009,Sahiwal,Punjab,5G,Macro,Active,300,2019-11-26
+TWR00010,Abbottabad,KPK,4G/5G,Macro,Active,1000,2021-01-06
+TWR00011,Quetta,Balochistan,4G,Macro,Active,300,2022-05-28
+TWR00012,Sargodha,Punjab,4G/5G,Small Cell,Active,2000,2018-12-26
+TWR00013,Sukkur,Sindh,4G,Rooftop,Active,500,2022-11-30
+TWR00014,Hyderabad,Sindh,5G,Rooftop,Active,1500,2020-05-29
+TWR00015,Rawalpindi,Punjab,4G,Macro,Active,800,2018-11-14
+TWR00016,Rahim Yar Khan,Punjab,4G,Macro,Active,1000,2021-04-06
+TWR00017,Bahawalpur,Punjab,4G/5G,Rooftop,Active,500,2019-09-10
+TWR00018,Gujrat,Punjab,4G,Rural Tower,Active,1500,2025-11-25
+TWR00019,Gujrat,Punjab,4G,Macro,Active,500,2019-10-26
+TWR00020,Quetta,Balochistan,4G,Macro,Active,500,2025-01-05
+TWR00021,Islamabad,ICT,4G/5G,Rooftop,Active,800,2021-11-14
+TWR00022,Quetta,Balochistan,4G,Macro,Active,2000,2026-03-27
+TWR00023,Multan,Punjab,4G,Macro,Active,300,2024-07-17
+TWR00024,Gujrat,Punjab,5G,Rural Tower,Active,500,2021-12-11
+TWR00025,Sialkot,Punjab,4G/5G,Macro,Maintenance,1500,2018-03-07
+TWR00026,Gujrat,Punjab,4G/5G,Macro,Active,2000,2018-02-06
+TWR00027,Gujrat,Punjab,4G/5G,Macro,Active,2000,2019-11-08
+TWR00028,Sahiwal,Punjab,5G,Macro,Active,2000,2023-01-07
+TWR00029,Sahiwal,Punjab,4G/5G,Macro,Active,1500,2019-03-02
+TWR00030,Sukkur,Sindh,5G,Rural Tower,Active,2000,2022-04-07
+TWR00031,Mardan,KPK,4G,Macro,Active,1500,2020-02-13
+TWR00032,Gujranwala,Punjab,4G,Macro,Active,1000,2018-08-28
+TWR00033,Mingora,KPK,4G/5G,Macro,Degraded,500,2021-01-23
+TWR00034,Hyderabad,Sindh,4G/5G,Macro,Active,300,2023-12-23
+TWR00035,Mardan,KPK,5G,Small Cell,Active,300,2025-04-15
+TWR00036,Mardan,KPK,4G/5G,Small Cell,Active,2000,2018-05-07
+TWR00037,Faisalabad,Punjab,4G,Macro,Active,2000,2024-06-05
+TWR00038,Bahawalpur,Punjab,5G,Rural Tower,Active,1500,2021-01-14
+TWR00039,Gujranwala,Punjab,4G,Macro,Active,500,2024-11-08
+TWR00040,Karachi,Sindh,4G/5G,Rooftop,Maintenance,800,2018-11-09
+TWR00041,Peshawar,KPK,4G,Macro,Active,800,2019-02-06
+TWR00042,Rahim Yar Khan,Punjab,4G/5G,Macro,Active,800,2018-10-19
+TWR00043,Faisalabad,Punjab,4G,Rural Tower,Active,1000,2025-12-05
+TWR00044,Hyderabad,Sindh,4G,Macro,Active,500,2021-08-27
+TWR00045,Rahim Yar Khan,Punjab,4G,Rural Tower,Active,500,2021-03-22
+TWR00046,Hyderabad,Sindh,4G/5G,Macro,Active,800,2023-09-10
+TWR00047,Mingora,KPK,4G,Macro,Active,1000,2018-09-28
+TWR00048,Peshawar,KPK,4G,Rooftop,Degraded,800,2020-03-19
+TWR00049,Gujranwala,Punjab,4G,Small Cell,Active,300,2024-03-20
+TWR00050,Rawalpindi,Punjab,4G,Macro,Active,800,2020-05-20
+TWR00051,Quetta,Balochistan,4G,Rooftop,Active,300,2020-03-31
+TWR00052,Lahore,Punjab,4G,Rooftop,Active,500,2025-06-17
+TWR00053,Hyderabad,Sindh,4G/5G,Macro,Active,800,2020-12-16
+TWR00054,Gujranwala,Punjab,4G,Rural Tower,Active,300,2023-04-26
+TWR00055,Quetta,Balochistan,4G/5G,Macro,Active,1500,2023-10-13
+TWR00056,Bahawalpur,Punjab,4G/5G,Rural Tower,Active,300,2022-04-10
+TWR00057,Lahore,Punjab,5G,Macro,Maintenance,2000,2026-03-14
+TWR00058,Lahore,Punjab,5G,Rooftop,Active,800,2018-05-02
+TWR00059,Multan,Punjab,4G/5G,Rooftop,Active,2000,2023-08-25
+TWR00060,Sialkot,Punjab,4G,Macro,Active,800,2022-11-07
+TWR00061,Sialkot,Punjab,4G,Macro,Maintenance,500,2023-06-06
+TWR00062,Mardan,KPK,4G/5G,Macro,Active,300,2020-04-03
+TWR00063,Rawalpindi,Punjab,4G/5G,Rooftop,Active,300,2019-06-22
+TWR00064,Sargodha,Punjab,4G/5G,Small Cell,Active,1000,2024-06-02
+TWR00065,Gujrat,Punjab,4G,Small Cell,Active,500,2018-01-10
+TWR00066,Lahore,Punjab,4G,Macro,Active,1000,2022-12-26
+TWR00067,Gujranwala,Punjab,5G,Macro,Active,1000,2021-08-17
+TWR00068,Sukkur,Sindh,4G,Macro,Active,2000,2018-05-09
+TWR00069,Sialkot,Punjab,4G,Macro,Active,800,2022-11-20
+TWR00070,Multan,Punjab,4G,Rural Tower,Active,2000,2026-02-04
+TWR00071,Bahawalpur,Punjab,5G,Small Cell,Active,1500,2025-02-16
+TWR00072,Gujrat,Punjab,4G,Macro,Active,800,2019-07-08
+TWR00073,Mardan,KPK,4G,Macro,Active,1000,2023-08-05
+TWR00074,Gujranwala,Punjab,4G,Rooftop,Active,800,2021-08-25
+TWR00075,Sialkot,Punjab,5G,Macro,Active,1500,2022-03-13
+TWR00076,Abbottabad,KPK,4G,Rooftop,Active,2000,2023-05-15
+TWR00077,Islamabad,ICT,4G,Macro,Active,1500,2018-10-27
+TWR00078,Quetta,Balochistan,4G,Macro,Active,1000,2019-05-31
+TWR00079,Abbottabad,KPK,4G,Rooftop,Active,1000,2018-01-24
+TWR00080,Lahore,Punjab,5G,Macro,Active,1000,2018-09-22
+TWR00081,Sahiwal,Punjab,5G,Macro,Active,1000,2019-05-18
+TWR00082,Sargodha,Punjab,4G/5G,Rooftop,Active,500,2018-10-21
+TWR00083,Hyderabad,Sindh,4G,Macro,Active,1500,2019-05-25
+TWR00084,Mardan,KPK,4G,Rural Tower,Degraded,800,2026-02-20
+TWR00085,Quetta,Balochistan,4G/5G,Macro,Active,2000,2024-10-03
+TWR00086,Gujrat,Punjab,4G/5G,Small Cell,Active,1000,2023-05-11
+TWR00087,Gujrat,Punjab,4G,Macro,Active,2000,2021-08-29
+TWR00088,Gujrat,Punjab,5G,Macro,Active,1000,2022-10-23
+TWR00089,Bahawalpur,Punjab,4G/5G,Small Cell,Active,1500,2018-06-07
+TWR00090,Bahawalpur,Punjab,5G,Macro,Active,1000,2023-01-31
+TWR00091,Karachi,Sindh,4G/5G,Macro,Active,2000,2019-12-24
+TWR00092,Peshawar,KPK,5G,Macro,Active,300,2024-11-24
+TWR00093,Faisalabad,Punjab,4G,Small Cell,Active,500,2022-06-12
+TWR00094,Bahawalpur,Punjab,4G,Rural Tower,Active,1500,2023-10-21
+TWR00095,Sukkur,Sindh,4G,Macro,Degraded,2000,2025-08-16
+TWR00096,Gujranwala,Punjab,4G/5G,Rural Tower,Active,1500,2019-07-20
+TWR00097,Bahawalpur,Punjab,5G,Rooftop,Degraded,500,2021-01-15
+TWR00098,Islamabad,ICT,4G,Macro,Active,800,2025-09-12
+TWR00099,Abbottabad,KPK,4G,Macro,Active,1000,2020-11-08
+TWR00100,Peshawar,KPK,4G,Rural Tower,Active,1500,2019-01-29
+TWR00101,Sukkur,Sindh,4G/5G,Rooftop,Active,2000,2018-06-14
+TWR00102,Karachi,Sindh,4G/5G,Rooftop,Active,500,2022-04-04
+TWR00103,Hyderabad,Sindh,5G,Small Cell,Active,2000,2019-03-22
+TWR00104,Hyderabad,Sindh,4G/5G,Macro,Active,500,2021-03-13
+TWR00105,Mingora,KPK,4G,Macro,Active,800,2021-09-01
+TWR00106,Multan,Punjab,5G,Macro,Active,2000,2023-07-21
+TWR00107,Islamabad,ICT,4G,Macro,Active,1000,2021-08-13
+TWR00108,Hyderabad,Sindh,5G,Macro,Active,500,2023-05-25
+TWR00109,Quetta,Balochistan,4G,Rooftop,Active,800,2024-07-29
+TWR00110,Multan,Punjab,4G,Macro,Maintenance,1500,2019-05-21
+TWR00111,Gujranwala,Punjab,4G/5G,Macro,Active,2000,2021-11-17
+TWR00112,Sialkot,Punjab,4G,Macro,Active,1500,2026-02-11
+TWR00113,Sahiwal,Punjab,4G,Macro,Active,800,2018-12-30
+TWR00114,Sialkot,Punjab,4G,Macro,Active,800,2024-03-29
+TWR00115,Sukkur,Sindh,4G,Macro,Active,500,2023-09-05
+TWR00116,Sukkur,Sindh,5G,Rooftop,Active,300,2018-12-12
+TWR00117,Sukkur,Sindh,4G,Rooftop,Active,500,2025-11-08
+TWR00118,Karachi,Sindh,4G,Macro,Active,500,2022-09-19
+TWR00119,Rahim Yar Khan,Punjab,4G,Macro,Active,1000,2022-10-19
+TWR00120,Rawalpindi,Punjab,4G,Small Cell,Active,300,2023-06-20
+TWR00121,Islamabad,ICT,4G/5G,Rural Tower,Active,800,2022-01-15
+TWR00122,Lahore,Punjab,4G/5G,Macro,Active,300,2022-02-26
+TWR00123,Hyderabad,Sindh,5G,Small Cell,Active,300,2025-03-20
+TWR00124,Faisalabad,Punjab,4G/5G,Small Cell,Active,300,2023-07-30
+TWR00125,Sialkot,Punjab,4G,Small Cell,Active,500,2018-10-27
+TWR00126,Multan,Punjab,4G,Rooftop,Active,500,2020-06-06
+TWR00127,Islamabad,ICT,4G,Macro,Active,1000,2021-09-12
+TWR00128,Gujrat,Punjab,4G,Small Cell,Active,500,2022-06-17
+TWR00129,Peshawar,KPK,4G/5G,Macro,Active,1500,2022-12-18
+TWR00130,Sukkur,Sindh,5G,Rural Tower,Active,1000,2025-12-24
+TWR00131,Mardan,KPK,4G,Macro,Active,1000,2021-10-29
+TWR00132,Quetta,Balochistan,4G,Macro,Active,1500,2026-03-04
+TWR00133,Faisalabad,Punjab,4G,Macro,Active,1500,2023-10-24
+TWR00134,Hyderabad,Sindh,4G,Small Cell,Active,300,2018-03-24
+TWR00135,Hyderabad,Sindh,4G,Macro,Active,2000,2018-03-31
+TWR00136,Peshawar,KPK,5G,Macro,Active,1500,2020-09-20
+TWR00137,Sukkur,Sindh,4G/5G,Macro,Active,2000,2019-02-08
+TWR00138,Faisalabad,Punjab,5G,Rural Tower,Active,1500,2024-10-10
+TWR00139,Lahore,Punjab,4G,Macro,Active,1500,2018-04-03
+TWR00140,Lahore,Punjab,4G,Macro,Active,1500,2021-12-31
+TWR00141,Rawalpindi,Punjab,4G,Macro,Active,2000,2025-06-09
+TWR00142,Gujranwala,Punjab,4G,Small Cell,Active,2000,2021-02-28
+TWR00143,Gujrat,Punjab,4G,Macro,Active,800,2019-05-21
+TWR00144,Sargodha,Punjab,4G,Macro,Active,2000,2024-09-28
+TWR00145,Multan,Punjab,4G/5G,Rural Tower,Active,1500,2019-11-02
+TWR00146,Mardan,KPK,4G/5G,Rooftop,Active,300,2020-09-20
+TWR00147,Gujrat,Punjab,4G,Macro,Active,2000,2023-06-21
+TWR00148,Peshawar,KPK,4G/5G,Rural Tower,Active,500,2025-05-10
+TWR00149,Rawalpindi,Punjab,4G,Rooftop,Active,2000,2025-06-07
+TWR00150,Gujrat,Punjab,4G,Macro,Active,300,2018-01-16
+TWR00151,Peshawar,KPK,5G,Rooftop,Active,1000,2021-01-25
+TWR00152,Abbottabad,KPK,4G,Macro,Active,1000,2021-05-19
+TWR00153,Peshawar,KPK,4G/5G,Rooftop,Active,800,2020-05-15
+TWR00154,Peshawar,KPK,4G/5G,Macro,Active,1500,2025-08-24
+TWR00155,Gujranwala,Punjab,4G/5G,Macro,Active,300,2023-01-21
+TWR00156,Gujrat,Punjab,4G,Macro,Active,1000,2022-02-22
+TWR00157,Islamabad,ICT,4G,Macro,Active,800,2025-03-14
+TWR00158,Sukkur,Sindh,4G,Rooftop,Active,500,2019-08-11
+TWR00159,Sukkur,Sindh,4G,Macro,Active,500,2018-01-08
+TWR00160,Sargodha,Punjab,4G,Macro,Active,1500,2024-07-25
+TWR00161,Gujrat,Punjab,4G/5G,Rooftop,Active,1000,2023-08-10
+TWR00162,Multan,Punjab,4G,Macro,Active,800,2025-05-12
+TWR00163,Faisalabad,Punjab,4G,Rural Tower,Active,1500,2023-05-26
+TWR00164,Gujrat,Punjab,4G,Rural Tower,Active,1500,2022-03-30
+TWR00165,Karachi,Sindh,4G,Macro,Active,500,2018-11-28
+TWR00166,Gujranwala,Punjab,4G,Macro,Maintenance,1000,2021-06-21
+TWR00167,Gujrat,Punjab,4G,Macro,Active,300,2022-05-29
+TWR00168,Gujrat,Punjab,4G/5G,Macro,Active,300,2023-01-05
+TWR00169,Mardan,KPK,4G,Macro,Active,300,2025-02-21
+TWR00170,Abbottabad,KPK,4G,Macro,Active,1500,2019-08-28
+TWR00171,Quetta,Balochistan,4G,Rooftop,Active,500,2024-12-11
+TWR00172,Lahore,Punjab,4G,Small Cell,Active,300,2025-11-13
+TWR00173,Karachi,Sindh,4G,Macro,Active,500,2022-05-16
+TWR00174,Gujranwala,Punjab,4G/5G,Macro,Active,2000,2024-02-11
+TWR00175,Islamabad,ICT,4G/5G,Small Cell,Active,500,2022-01-18
+TWR00176,Sargodha,Punjab,4G/5G,Small Cell,Active,2000,2023-06-17
+TWR00177,Rahim Yar Khan,Punjab,4G,Rooftop,Active,500,2026-03-12
+TWR00178,Sialkot,Punjab,5G,Macro,Active,1000,2026-04-16
+TWR00179,Sukkur,Sindh,5G,Rooftop,Degraded,1500,2020-11-22
+TWR00180,Quetta,Balochistan,5G,Macro,Active,300,2025-01-27
+TWR00181,Mingora,KPK,4G,Macro,Active,300,2020-03-23
+TWR00182,Sahiwal,Punjab,4G,Macro,Active,300,2024-10-19
+TWR00183,Rawalpindi,Punjab,4G,Macro,Active,300,2024-01-07
+TWR00184,Faisalabad,Punjab,4G,Macro,Active,2000,2018-11-25
+TWR00185,Gujranwala,Punjab,4G,Macro,Active,1500,2021-08-18
+TWR00186,Lahore,Punjab,4G,Rooftop,Active,500,2022-12-29
+TWR00187,Sukkur,Sindh,4G/5G,Rooftop,Active,1000,2021-12-08
+TWR00188,Islamabad,ICT,4G/5G,Macro,Active,800,2024-03-21
+TWR00189,Sukkur,Sindh,4G/5G,Rooftop,Active,800,2019-10-20
+TWR00190,Karachi,Sindh,4G,Macro,Active,800,2018-12-22
+TWR00191,Sukkur,Sindh,4G/5G,Macro,Active,1000,2022-04-07
+TWR00192,Lahore,Punjab,4G/5G,Macro,Active,1500,2021-10-09
+TWR00193,Bahawalpur,Punjab,4G,Macro,Active,1000,2021-09-21
+TWR00194,Multan,Punjab,4G,Rooftop,Active,500,2020-04-22
+TWR00195,Mingora,KPK,4G/5G,Macro,Active,800,2018-07-25
+TWR00196,Sahiwal,Punjab,4G/5G,Macro,Active,2000,2022-02-13
+TWR00197,Sahiwal,Punjab,4G/5G,Macro,Maintenance,500,2022-12-09
+TWR00198,Rahim Yar Khan,Punjab,5G,Rural Tower,Active,300,2026-05-22
+TWR00199,Hyderabad,Sindh,4G,Macro,Active,300,2025-09-26
+TWR00200,Sialkot,Punjab,5G,Macro,Active,2000,2025-10-15
+TWR00201,Sialkot,Punjab,4G,Rooftop,Active,500,2026-01-24
+TWR00202,Sialkot,Punjab,4G/5G,Macro,Active,1000,2025-06-12
+TWR00203,Sukkur,Sindh,4G,Macro,Active,800,2020-09-21
+TWR00204,Sukkur,Sindh,5G,Rooftop,Active,2000,2022-07-30
+TWR00205,Multan,Punjab,4G/5G,Macro,Active,1500,2018-06-06
+TWR00206,Rahim Yar Khan,Punjab,4G,Macro,Active,1500,2022-03-29
+TWR00207,Karachi,Sindh,5G,Macro,Active,800,2024-01-04
+TWR00208,Faisalabad,Punjab,5G,Rooftop,Active,500,2020-04-08
+TWR00209,Multan,Punjab,4G/5G,Macro,Active,300,2022-02-24
+TWR00210,Sukkur,Sindh,4G,Macro,Active,1500,2020-10-23
+TWR00211,Gujranwala,Punjab,4G,Rooftop,Active,2000,2026-01-30
+TWR00212,Lahore,Punjab,4G,Macro,Active,2000,2024-09-27
+TWR00213,Faisalabad,Punjab,4G,Macro,Active,800,2020-10-29
+TWR00214,Abbottabad,KPK,4G/5G,Small Cell,Active,500,2024-10-22
+TWR00215,Mingora,KPK,4G,Macro,Active,500,2024-04-14
+TWR00216,Gujranwala,Punjab,4G,Macro,Active,2000,2024-05-18
+TWR00217,Peshawar,KPK,4G,Macro,Active,1000,2020-07-07
+TWR00218,Lahore,Punjab,4G,Macro,Active,500,2018-05-29
+TWR00219,Faisalabad,Punjab,4G,Rural Tower,Active,1500,2025-10-09
+TWR00220,Karachi,Sindh,4G,Macro,Active,500,2022-01-23
+TWR00221,Rawalpindi,Punjab,4G,Rooftop,Active,300,2019-07-30
+TWR00222,Multan,Punjab,4G,Macro,Active,300,2023-10-18
+TWR00223,Hyderabad,Sindh,4G/5G,Macro,Active,2000,2022-04-02
+TWR00224,Sahiwal,Punjab,4G,Macro,Active,2000,2020-03-21
+TWR00225,Hyderabad,Sindh,4G,Small Cell,Active,1000,2021-06-18
+TWR00226,Bahawalpur,Punjab,4G/5G,Macro,Active,1500,2020-11-25
+TWR00227,Sukkur,Sindh,5G,Macro,Active,1500,2023-08-05
+TWR00228,Hyderabad,Sindh,4G,Macro,Active,2000,2018-04-08
+TWR00229,Gujranwala,Punjab,4G,Macro,Active,1000,2019-03-08
+TWR00230,Gujranwala,Punjab,4G,Macro,Active,300,2024-07-28
+TWR00231,Lahore,Punjab,4G,Macro,Active,500,2018-05-08
+TWR00232,Karachi,Sindh,4G/5G,Macro,Active,300,2019-06-23
+TWR00233,Multan,Punjab,4G/5G,Macro,Active,800,2025-10-25
+TWR00234,Rahim Yar Khan,Punjab,4G,Rooftop,Active,1500,2019-07-09
+TWR00235,Sialkot,Punjab,4G,Macro,Active,800,2023-02-07
+TWR00236,Faisalabad,Punjab,5G,Rural Tower,Active,500,2023-12-14
+TWR00237,Islamabad,ICT,4G,Macro,Active,800,2020-11-12
+TWR00238,Lahore,Punjab,4G,Macro,Active,300,2023-12-24
+TWR00239,Sialkot,Punjab,4G,Rooftop,Active,2000,2020-07-27
+TWR00240,Rawalpindi,Punjab,4G,Macro,Active,1000,2020-07-02
+TWR00241,Karachi,Sindh,4G,Macro,Active,1000,2021-09-25
+TWR00242,Faisalabad,Punjab,4G,Macro,Active,300,2020-09-25
+TWR00243,Sukkur,Sindh,5G,Macro,Active,300,2021-08-13
+TWR00244,Peshawar,KPK,4G,Rural Tower,Active,1000,2019-01-10
+TWR00245,Faisalabad,Punjab,4G,Rural Tower,Active,300,2021-02-09
+TWR00246,Abbottabad,KPK,4G,Macro,Active,1000,2025-02-22
+TWR00247,Abbottabad,KPK,4G/5G,Rural Tower,Active,2000,2020-04-08
+TWR00248,Quetta,Balochistan,4G,Macro,Active,1500,2026-06-17
+TWR00249,Gujrat,Punjab,4G,Macro,Active,500,2018-01-12
+TWR00250,Islamabad,ICT,4G,Rural Tower,Degraded,1000,2023-03-19
+TWR00251,Peshawar,KPK,5G,Macro,Degraded,800,2020-02-13
+TWR00252,Multan,Punjab,4G,Macro,Active,800,2021-05-24
+TWR00253,Bahawalpur,Punjab,4G,Rooftop,Active,300,2022-07-14
+TWR00254,Mardan,KPK,5G,Macro,Active,2000,2024-05-04
+TWR00255,Bahawalpur,Punjab,4G,Macro,Maintenance,300,2021-09-25
+TWR00256,Bahawalpur,Punjab,4G,Rooftop,Active,500,2022-02-24
+TWR00257,Abbottabad,KPK,4G/5G,Macro,Active,1000,2021-08-02
+TWR00258,Sargodha,Punjab,4G,Macro,Active,300,2022-11-11
+TWR00259,Abbottabad,KPK,5G,Macro,Active,1500,2020-02-27
+TWR00260,Mingora,KPK,4G,Small Cell,Active,2000,2020-06-13
+TWR00261,Sargodha,Punjab,4G,Macro,Active,500,2022-08-17
+TWR00262,Mardan,KPK,4G,Rural Tower,Maintenance,1000,2026-01-26
+TWR00263,Rawalpindi,Punjab,4G/5G,Macro,Active,300,2019-11-09
+TWR00264,Quetta,Balochistan,4G,Macro,Active,500,2018-12-01
+TWR00265,Gujrat,Punjab,4G/5G,Small Cell,Active,300,2022-08-26
+TWR00266,Gujranwala,Punjab,4G,Rooftop,Active,1000,2023-04-14
+TWR00267,Rahim Yar Khan,Punjab,5G,Small Cell,Active,300,2024-01-05
+TWR00268,Hyderabad,Sindh,4G,Macro,Active,1500,2021-10-11
+TWR00269,Quetta,Balochistan,5G,Macro,Active,1000,2018-02-09
+TWR00270,Islamabad,ICT,4G,Macro,Active,300,2019-12-19
+TWR00271,Sahiwal,Punjab,4G,Macro,Active,500,2022-08-13
+TWR00272,Lahore,Punjab,4G/5G,Macro,Active,500,2021-09-02
+TWR00273,Rahim Yar Khan,Punjab,4G/5G,Macro,Active,1000,2018-02-19
+TWR00274,Mardan,KPK,4G,Macro,Active,2000,2019-08-27
+TWR00275,Bahawalpur,Punjab,5G,Macro,Active,2000,2019-12-14
+TWR00276,Mardan,KPK,4G,Rural Tower,Active,500,2020-02-04
+TWR00277,Sahiwal,Punjab,5G,Small Cell,Active,500,2024-06-15
+TWR00278,Lahore,Punjab,5G,Macro,Active,1500,2019-10-17
+TWR00279,Faisalabad,Punjab,4G,Macro,Degraded,800,2025-02-21
+TWR00280,Mingora,KPK,4G,Macro,Active,500,2021-07-08
+TWR00281,Sialkot,Punjab,4G,Macro,Active,1000,2023-02-15
+TWR00282,Sukkur,Sindh,5G,Macro,Degraded,1500,2024-12-28
+TWR00283,Quetta,Balochistan,4G,Macro,Active,2000,2026-05-09
+TWR00284,Rahim Yar Khan,Punjab,4G,Macro,Active,500,2024-01-10
+TWR00285,Sialkot,Punjab,4G,Small Cell,Active,300,2025-02-10
+TWR00286,Lahore,Punjab,5G,Small Cell,Active,1000,2025-05-30
+TWR00287,Hyderabad,Sindh,4G,Rooftop,Active,1500,2021-01-01
+TWR00288,Gujrat,Punjab,4G,Macro,Active,500,2020-01-02
+TWR00289,Gujranwala,Punjab,5G,Rooftop,Active,500,2021-06-05
+TWR00290,Sukkur,Sindh,5G,Macro,Active,300,2022-07-20
+TWR00291,Rahim Yar Khan,Punjab,4G/5G,Small Cell,Active,300,2021-01-31
+TWR00292,Peshawar,KPK,4G,Macro,Active,1500,2018-02-11
+TWR00293,Multan,Punjab,4G,Macro,Active,800,2025-08-14
+TWR00294,Mingora,KPK,4G,Macro,Active,500,2023-02-24
+TWR00295,Peshawar,KPK,4G/5G,Macro,Active,300,2022-12-15
+TWR00296,Mardan,KPK,5G,Small Cell,Active,500,2023-06-29
+TWR00297,Lahore,Punjab,5G,Rooftop,Active,300,2019-07-28
+TWR00298,Gujrat,Punjab,4G/5G,Macro,Active,1000,2025-11-10
+TWR00299,Bahawalpur,Punjab,5G,Macro,Active,800,2021-12-01
+TWR00300,Faisalabad,Punjab,4G,Macro,Active,500,2023-03-20
+TWR00301,Gujrat,Punjab,4G,Macro,Degraded,500,2024-12-12
+TWR00302,Rawalpindi,Punjab,4G,Macro,Degraded,500,2020-03-14
+TWR00303,Rahim Yar Khan,Punjab,4G,Macro,Active,2000,2025-07-11
+TWR00304,Rawalpindi,Punjab,4G,Small Cell,Active,2000,2020-06-10
+TWR00305,Lahore,Punjab,4G/5G,Macro,Active,1500,2022-07-09
+TWR00306,Mardan,KPK,4G,Macro,Active,1500,2023-06-13
+TWR00307,Rahim Yar Khan,Punjab,4G,Macro,Active,300,2020-06-21
+TWR00308,Sukkur,Sindh,4G,Small Cell,Active,300,2024-06-02
+TWR00309,Faisalabad,Punjab,4G/5G,Macro,Active,1500,2023-04-26
+TWR00310,Sialkot,Punjab,4G,Macro,Active,300,2022-04-23
+TWR00311,Gujranwala,Punjab,4G/5G,Macro,Active,800,2019-01-10
+TWR00312,Sahiwal,Punjab,4G,Rooftop,Active,1000,2019-04-25
+TWR00313,Rahim Yar Khan,Punjab,5G,Macro,Active,1500,2021-08-17
+TWR00314,Karachi,Sindh,5G,Macro,Active,500,2020-03-24
+TWR00315,Mingora,KPK,4G,Small Cell,Active,300,2025-11-26
+TWR00316,Abbottabad,KPK,5G,Macro,Active,300,2023-10-12
+TWR00317,Gujranwala,Punjab,5G,Macro,Active,2000,2023-09-24
+TWR00318,Lahore,Punjab,5G,Rooftop,Maintenance,300,2021-08-21
+TWR00319,Karachi,Sindh,4G,Macro,Active,1000,2018-02-03
+TWR00320,Islamabad,ICT,5G,Rooftop,Active,2000,2025-06-08
+TWR00321,Peshawar,KPK,4G,Macro,Active,1000,2026-01-22
+TWR00322,Quetta,Balochistan,4G/5G,Macro,Active,800,2024-01-20
+TWR00323,Sialkot,Punjab,4G,Macro,Active,800,2018-06-06
+TWR00324,Peshawar,KPK,4G,Macro,Active,1000,2024-06-03
+TWR00325,Sahiwal,Punjab,5G,Macro,Active,300,2018-03-18
+TWR00326,Abbottabad,KPK,4G,Macro,Active,1000,2026-01-09
+TWR00327,Islamabad,ICT,5G,Small Cell,Active,2000,2020-07-22
+TWR00328,Sahiwal,Punjab,4G,Macro,Active,1500,2025-04-03
+TWR00329,Islamabad,ICT,4G/5G,Rooftop,Active,2000,2019-11-26
+TWR00330,Islamabad,ICT,4G,Rooftop,Active,800,2025-07-14
+TWR00331,Gujranwala,Punjab,4G/5G,Macro,Active,300,2023-11-27
+TWR00332,Islamabad,ICT,4G,Rooftop,Active,2000,2020-03-31
+TWR00333,Karachi,Sindh,4G,Rooftop,Active,500,2022-07-12
+TWR00334,Sahiwal,Punjab,4G,Small Cell,Active,500,2025-03-31
+TWR00335,Quetta,Balochistan,4G,Rural Tower,Active,300,2018-10-27
+TWR00336,Gujrat,Punjab,4G,Rural Tower,Active,1500,2024-10-03
+TWR00337,Bahawalpur,Punjab,4G,Macro,Active,500,2026-06-14
+TWR00338,Sialkot,Punjab,4G,Macro,Active,300,2025-08-11
+TWR00339,Lahore,Punjab,4G,Small Cell,Active,300,2021-03-27
+TWR00340,Karachi,Sindh,4G/5G,Macro,Active,500,2023-07-20
+TWR00341,Quetta,Balochistan,4G,Small Cell,Active,1500,2026-02-07
+TWR00342,Abbottabad,KPK,4G,Macro,Active,500,2022-07-21
+TWR00343,Sialkot,Punjab,4G,Small Cell,Maintenance,1000,2022-08-05
+TWR00344,Sahiwal,Punjab,4G,Macro,Active,800,2021-01-07
+TWR00345,Bahawalpur,Punjab,5G,Macro,Degraded,1500,2021-02-09
+TWR00346,Hyderabad,Sindh,4G,Small Cell,Active,500,2021-06-29
+TWR00347,Peshawar,KPK,4G,Small Cell,Active,1000,2024-10-09
+TWR00348,Rawalpindi,Punjab,4G,Rooftop,Active,1000,2023-10-10
+TWR00349,Mardan,KPK,4G/5G,Macro,Active,2000,2019-01-17
+TWR00350,Gujrat,Punjab,4G,Macro,Active,500,2024-04-12
+TWR00351,Hyderabad,Sindh,4G,Small Cell,Active,500,2020-10-21
+TWR00352,Quetta,Balochistan,4G,Macro,Active,2000,2023-03-20
+TWR00353,Mardan,KPK,4G,Macro,Active,500,2019-07-27
+TWR00354,Abbottabad,KPK,4G,Macro,Active,500,2023-07-12
+TWR00355,Gujrat,Punjab,4G,Small Cell,Active,2000,2020-02-24
+TWR00356,Islamabad,ICT,4G,Small Cell,Active,300,2020-11-15
+TWR00357,Faisalabad,Punjab,4G,Rooftop,Active,500,2022-03-17
+TWR00358,Peshawar,KPK,4G/5G,Macro,Active,1000,2026-06-27
+TWR00359,Mardan,KPK,4G,Rooftop,Active,500,2024-01-11
+TWR00360,Islamabad,ICT,4G,Macro,Active,800,2025-08-22
+TWR00361,Lahore,Punjab,4G,Macro,Active,300,2021-01-20
+TWR00362,Sialkot,Punjab,4G/5G,Macro,Active,1500,2019-02-16
+TWR00363,Faisalabad,Punjab,4G,Rural Tower,Active,1000,2024-04-19
+TWR00364,Peshawar,KPK,4G,Rooftop,Active,300,2023-04-06
+TWR00365,Abbottabad,KPK,4G/5G,Macro,Active,2000,2024-12-11
+TWR00366,Hyderabad,Sindh,4G,Macro,Active,300,2024-09-15
+TWR00367,Mardan,KPK,4G,Macro,Active,1000,2018-03-08
+TWR00368,Faisalabad,Punjab,4G,Macro,Active,1500,2018-10-11
+TWR00369,Karachi,Sindh,4G,Macro,Maintenance,1000,2025-09-04
+TWR00370,Sialkot,Punjab,4G,Rooftop,Active,300,2023-10-09
+TWR00371,Multan,Punjab,5G,Macro,Active,2000,2023-11-14
+TWR00372,Islamabad,ICT,4G/5G,Rural Tower,Active,2000,2024-04-06
+TWR00373,Faisalabad,Punjab,4G/5G,Rooftop,Active,1000,2024-03-06
+TWR00374,Sahiwal,Punjab,4G,Macro,Active,1500,2025-03-31
+TWR00375,Bahawalpur,Punjab,4G,Small Cell,Active,800,2021-04-25
+TWR00376,Abbottabad,KPK,4G,Macro,Active,500,2022-06-22
+TWR00377,Mingora,KPK,4G,Rural Tower,Active,1500,2020-06-23
+TWR00378,Rahim Yar Khan,Punjab,4G/5G,Macro,Active,2000,2021-07-07
+TWR00379,Mardan,KPK,4G,Rural Tower,Active,2000,2025-12-15
+TWR00380,Sialkot,Punjab,5G,Rooftop,Active,1500,2021-08-12
+TWR00381,Sialkot,Punjab,5G,Rural Tower,Active,300,2024-10-20
+TWR00382,Mardan,KPK,4G,Rooftop,Active,800,2025-11-02
+TWR00383,Sargodha,Punjab,4G,Rural Tower,Active,1000,2020-01-26
+TWR00384,Rawalpindi,Punjab,4G,Macro,Active,1500,2018-01-06
+TWR00385,Faisalabad,Punjab,4G/5G,Rural Tower,Active,1000,2025-10-24
+TWR00386,Rawalpindi,Punjab,5G,Macro,Active,500,2023-03-24
+TWR00387,Multan,Punjab,4G,Rooftop,Active,800,2023-10-27
+TWR00388,Quetta,Balochistan,4G,Macro,Active,1500,2024-06-21
+TWR00389,Sargodha,Punjab,4G/5G,Macro,Active,300,2020-12-05
+TWR00390,Karachi,Sindh,4G,Macro,Active,1500,2021-12-05
+TWR00391,Rahim Yar Khan,Punjab,4G/5G,Rooftop,Active,800,2019-10-03
+TWR00392,Gujrat,Punjab,4G/5G,Rural Tower,Active,300,2025-06-19
+TWR00393,Quetta,Balochistan,4G,Macro,Active,1500,2026-05-12
+TWR00394,Multan,Punjab,4G,Macro,Active,300,2022-03-04
+TWR00395,Sargodha,Punjab,4G,Macro,Active,1000,2025-04-14
+TWR00396,Bahawalpur,Punjab,5G,Macro,Active,300,2019-10-16
+TWR00397,Sahiwal,Punjab,4G,Macro,Active,800,2018-04-28
+TWR00398,Quetta,Balochistan,4G/5G,Macro,Active,1000,2020-10-01
+TWR00399,Rahim Yar Khan,Punjab,4G/5G,Macro,Active,1500,2025-01-31
+TWR00400,Gujranwala,Punjab,4G/5G,Rural Tower,Active,800,2019-12-26
+TWR00401,Sargodha,Punjab,4G/5G,Rooftop,Active,300,2020-07-16
+TWR00402,Peshawar,KPK,4G,Macro,Active,2000,2021-03-07
+TWR00403,Mardan,KPK,4G/5G,Macro,Active,300,2025-04-20
+TWR00404,Gujrat,Punjab,4G/5G,Rural Tower,Active,1500,2021-02-13
+TWR00405,Faisalabad,Punjab,4G,Macro,Active,800,2024-01-25
+TWR00406,Quetta,Balochistan,4G,Rooftop,Active,2000,2024-05-08
+TWR00407,Faisalabad,Punjab,4G,Macro,Active,1000,2022-09-18
+TWR00408,Sukkur,Sindh,4G/5G,Macro,Active,300,2023-05-05
+TWR00409,Sukkur,Sindh,4G,Macro,Active,300,2019-01-17
+TWR00410,Hyderabad,Sindh,4G,Rural Tower,Active,800,2026-02-27
+TWR00411,Sialkot,Punjab,4G,Rooftop,Active,500,2023-06-04
+TWR00412,Rahim Yar Khan,Punjab,4G,Macro,Active,1000,2026-06-23
+TWR00413,Gujrat,Punjab,5G,Macro,Active,1500,2018-04-21
+TWR00414,Lahore,Punjab,4G,Rooftop,Active,1000,2020-09-30
+TWR00415,Multan,Punjab,4G,Macro,Active,2000,2024-07-29
+TWR00416,Sukkur,Sindh,4G,Macro,Active,1000,2019-12-20
+TWR00417,Bahawalpur,Punjab,4G,Small Cell,Active,300,2021-02-24
+TWR00418,Abbottabad,KPK,4G,Rural Tower,Active,300,2023-03-16
+TWR00419,Sargodha,Punjab,4G,Macro,Active,500,2020-01-13
+TWR00420,Islamabad,ICT,4G,Rooftop,Active,1000,2021-08-21
+TWR00421,Rawalpindi,Punjab,4G,Macro,Active,300,2018-01-21
+TWR00422,Gujranwala,Punjab,4G,Rooftop,Active,1500,2024-04-25
+TWR00423,Sukkur,Sindh,5G,Macro,Active,2000,2024-01-12
+TWR00424,Mardan,KPK,4G,Macro,Active,500,2022-01-14
+TWR00425,Sahiwal,Punjab,4G,Macro,Active,1000,2024-03-23
+TWR00426,Rawalpindi,Punjab,4G,Small Cell,Active,1000,2025-01-31
+TWR00427,Sargodha,Punjab,4G/5G,Small Cell,Active,1500,2024-09-21
+TWR00428,Bahawalpur,Punjab,5G,Macro,Active,2000,2024-02-28
+TWR00429,Karachi,Sindh,4G,Macro,Active,800,2025-06-22
+TWR00430,Sukkur,Sindh,4G,Rural Tower,Active,1000,2021-03-22
+TWR00431,Rahim Yar Khan,Punjab,4G,Macro,Active,2000,2023-01-21
+TWR00432,Karachi,Sindh,5G,Small Cell,Active,300,2024-07-22
+TWR00433,Faisalabad,Punjab,4G,Rooftop,Active,800,2026-01-19
+TWR00434,Gujrat,Punjab,4G/5G,Small Cell,Active,500,2025-05-11
+TWR00435,Gujranwala,Punjab,4G,Macro,Active,300,2020-05-25
+TWR00436,Multan,Punjab,4G,Rural Tower,Active,300,2023-08-23
+TWR00437,Sahiwal,Punjab,5G,Macro,Active,2000,2021-05-01
+TWR00438,Gujranwala,Punjab,4G/5G,Small Cell,Active,1500,2023-03-17
+TWR00439,Sahiwal,Punjab,4G/5G,Macro,Active,800,2019-04-14
+TWR00440,Peshawar,KPK,5G,Rooftop,Active,1000,2021-09-27
+TWR00441,Faisalabad,Punjab,4G/5G,Macro,Active,2000,2024-12-14
+TWR00442,Rawalpindi,Punjab,4G/5G,Macro,Active,1500,2024-03-27
+TWR00443,Quetta,Balochistan,4G,Macro,Maintenance,800,2023-04-26
+TWR00444,Sargodha,Punjab,5G,Macro,Active,2000,2018-02-26
+TWR00445,Abbottabad,KPK,4G,Rural Tower,Active,2000,2023-07-28
+TWR00446,Faisalabad,Punjab,4G,Macro,Active,500,2019-04-07
+TWR00447,Gujrat,Punjab,4G,Macro,Active,300,2018-05-09
+TWR00448,Mingora,KPK,4G,Macro,Active,300,2025-07-27
+TWR00449,Sialkot,Punjab,4G/5G,Macro,Active,2000,2024-04-01
+TWR00450,Gujranwala,Punjab,4G,Small Cell,Active,500,2019-11-18
+TWR00451,Sahiwal,Punjab,5G,Macro,Active,800,2020-10-24
+TWR00452,Rawalpindi,Punjab,4G,Small Cell,Active,800,2018-09-02
+TWR00453,Karachi,Sindh,4G,Macro,Active,500,2022-08-08
+TWR00454,Rahim Yar Khan,Punjab,4G,Macro,Active,800,2019-05-24
+TWR00455,Quetta,Balochistan,4G,Macro,Active,800,2023-04-22
+TWR00456,Sialkot,Punjab,4G,Macro,Active,500,2021-12-08
+TWR00457,Mardan,KPK,4G,Macro,Active,1000,2023-12-28
+TWR00458,Islamabad,ICT,5G,Small Cell,Active,800,2025-10-19
+TWR00459,Rahim Yar Khan,Punjab,4G/5G,Macro,Active,2000,2018-08-26
+TWR00460,Lahore,Punjab,4G,Macro,Active,2000,2022-02-01
+TWR00461,Gujranwala,Punjab,4G/5G,Macro,Active,800,2025-03-17
+TWR00462,Hyderabad,Sindh,4G,Rural Tower,Active,2000,2024-02-09
+TWR00463,Rawalpindi,Punjab,5G,Macro,Active,800,2024-07-03
+TWR00464,Abbottabad,KPK,4G,Macro,Active,800,2026-04-16
+TWR00465,Sukkur,Sindh,4G,Rooftop,Degraded,2000,2020-09-24
+TWR00466,Karachi,Sindh,4G,Macro,Active,2000,2024-04-15
+TWR00467,Hyderabad,Sindh,4G,Macro,Active,1000,2024-10-04
+TWR00468,Lahore,Punjab,4G/5G,Macro,Active,1500,2026-04-29
+TWR00469,Gujrat,Punjab,4G,Macro,Active,300,2021-10-22
+TWR00470,Sukkur,Sindh,5G,Macro,Active,800,2025-07-18
+TWR00471,Lahore,Punjab,4G/5G,Macro,Active,300,2023-11-16
+TWR00472,Mingora,KPK,4G,Macro,Active,1500,2018-08-03
+TWR00473,Abbottabad,KPK,4G,Macro,Active,500,2022-02-06
+TWR00474,Mardan,KPK,4G/5G,Small Cell,Active,800,2021-09-15
+TWR00475,Sahiwal,Punjab,4G,Macro,Active,1000,2026-05-27
+TWR00476,Sargodha,Punjab,4G/5G,Macro,Active,500,2018-01-27
+TWR00477,Sahiwal,Punjab,4G,Macro,Active,1000,2021-09-16
+TWR00478,Abbottabad,KPK,4G,Macro,Active,800,2018-05-31
+TWR00479,Multan,Punjab,4G/5G,Macro,Active,500,2021-08-03
+TWR00480,Islamabad,ICT,4G,Macro,Active,800,2023-08-06
+TWR00481,Peshawar,KPK,5G,Rooftop,Active,800,2018-10-05
+TWR00482,Peshawar,KPK,4G,Rural Tower,Active,1000,2019-05-14
+TWR00483,Rahim Yar Khan,Punjab,4G/5G,Rooftop,Active,1500,2020-07-09
+TWR00484,Multan,Punjab,4G,Macro,Active,300,2021-08-07
+TWR00485,Islamabad,ICT,4G/5G,Small Cell,Active,500,2026-03-31
+TWR00486,Rawalpindi,Punjab,5G,Rooftop,Active,800,2021-11-13
+TWR00487,Mardan,KPK,4G,Macro,Active,800,2021-08-03
+TWR00488,Bahawalpur,Punjab,4G,Macro,Active,2000,2020-01-30
+TWR00489,Faisalabad,Punjab,4G/5G,Macro,Active,800,2022-01-14
+TWR00490,Rahim Yar Khan,Punjab,4G,Macro,Active,300,2021-10-22
+TWR00491,Sialkot,Punjab,4G,Small Cell,Active,1500,2021-10-17
+TWR00492,Bahawalpur,Punjab,4G,Macro,Active,1500,2025-06-15
+TWR00493,Mingora,KPK,4G,Macro,Active,500,2026-02-16
+TWR00494,Abbottabad,KPK,4G,Macro,Maintenance,2000,2023-08-26
+TWR00495,Lahore,Punjab,5G,Macro,Active,800,2024-09-23
+TWR00496,Mardan,KPK,4G,Macro,Active,1500,2024-10-21
+TWR00497,Peshawar,KPK,4G,Macro,Active,2000,2018-01-29
+TWR00498,Gujranwala,Punjab,5G,Rooftop,Active,1500,2023-02-03
+TWR00499,Lahore,Punjab,4G,Macro,Active,800,2023-01-08
+TWR00500,Multan,Punjab,4G,Macro,Active,1000,2023-02-26
+TWR00501,Abbottabad,KPK,4G/5G,Macro,Active,800,2018-03-12
+TWR00502,Quetta,Balochistan,4G/5G,Macro,Active,1500,2022-09-18
+TWR00503,Gujrat,Punjab,4G,Macro,Active,1500,2025-04-17
+TWR00504,Sahiwal,Punjab,4G,Rooftop,Active,1000,2020-10-30
+TWR00505,Lahore,Punjab,4G,Macro,Active,300,2022-10-15
+TWR00506,Sargodha,Punjab,4G,Rooftop,Active,500,2022-07-07
+TWR00507,Karachi,Sindh,4G,Macro,Degraded,2000,2021-01-25
+TWR00508,Sukkur,Sindh,4G,Macro,Active,1500,2019-11-19
+TWR00509,Hyderabad,Sindh,4G,Small Cell,Active,300,2021-04-18
+TWR00510,Sukkur,Sindh,4G/5G,Small Cell,Active,1000,2025-07-24
+TWR00511,Quetta,Balochistan,4G/5G,Rural Tower,Active,2000,2019-03-14
+TWR00512,Islamabad,ICT,4G,Macro,Active,1500,2026-03-25
+TWR00513,Sialkot,Punjab,4G,Macro,Active,800,2021-02-02
+TWR00514,Sahiwal,Punjab,4G,Rural Tower,Active,2000,2018-03-18
+TWR00515,Gujranwala,Punjab,4G,Macro,Active,500,2021-02-01
+TWR00516,Sialkot,Punjab,5G,Macro,Active,1500,2023-06-21
+TWR00517,Lahore,Punjab,4G,Rural Tower,Active,1500,2020-02-27
+TWR00518,Bahawalpur,Punjab,4G,Rooftop,Active,2000,2019-06-05
+TWR00519,Rahim Yar Khan,Punjab,4G,Macro,Active,1000,2022-07-27
+TWR00520,Sialkot,Punjab,4G/5G,Macro,Active,800,2024-01-27
+TWR00521,Lahore,Punjab,4G/5G,Macro,Degraded,1500,2021-04-04
+TWR00522,Gujranwala,Punjab,4G/5G,Macro,Active,1000,2021-12-12
+TWR00523,Sialkot,Punjab,4G,Macro,Degraded,1000,2021-07-01
+TWR00524,Sukkur,Sindh,5G,Rooftop,Active,300,2019-10-13
+TWR00525,Sukkur,Sindh,4G,Macro,Active,500,2019-03-10
+TWR00526,Lahore,Punjab,4G,Rural Tower,Active,1500,2025-04-12
+TWR00527,Lahore,Punjab,5G,Small Cell,Active,2000,2025-02-07
+TWR00528,Sahiwal,Punjab,4G,Rooftop,Active,300,2023-02-05
+TWR00529,Mardan,KPK,4G,Macro,Active,800,2021-07-19
+TWR00530,Sargodha,Punjab,5G,Rural Tower,Active,800,2025-03-12
+TWR00531,Karachi,Sindh,4G,Macro,Active,2000,2022-01-25
+TWR00532,Faisalabad,Punjab,4G,Macro,Maintenance,2000,2018-03-07
+TWR00533,Peshawar,KPK,4G,Rooftop,Active,500,2026-05-30
+TWR00534,Sargodha,Punjab,4G,Macro,Degraded,500,2022-11-06
+TWR00535,Karachi,Sindh,4G,Macro,Active,800,2019-08-27
+TWR00536,Sahiwal,Punjab,4G/5G,Rooftop,Active,1500,2025-07-26
+TWR00537,Rawalpindi,Punjab,4G,Macro,Active,1500,2019-02-19
+TWR00538,Rawalpindi,Punjab,4G,Macro,Active,800,2021-06-24
+TWR00539,Mardan,KPK,5G,Rural Tower,Active,2000,2024-05-08
+TWR00540,Gujranwala,Punjab,5G,Macro,Active,1000,2018-02-10
+TWR00541,Rawalpindi,Punjab,4G,Macro,Active,800,2018-02-01
+TWR00542,Rawalpindi,Punjab,5G,Macro,Active,500,2023-12-20
+TWR00543,Sargodha,Punjab,4G/5G,Macro,Active,300,2025-10-15
+TWR00544,Bahawalpur,Punjab,5G,Rural Tower,Active,300,2019-06-18
+TWR00545,Mingora,KPK,4G/5G,Macro,Active,800,2018-09-21
+TWR00546,Rawalpindi,Punjab,4G/5G,Small Cell,Active,2000,2022-06-01
+TWR00547,Sargodha,Punjab,4G,Macro,Active,1500,2023-11-23
+TWR00548,Rawalpindi,Punjab,4G,Macro,Active,2000,2025-11-07
+TWR00549,Quetta,Balochistan,5G,Macro,Active,2000,2025-07-24
+TWR00550,Islamabad,ICT,5G,Rooftop,Active,1000,2023-06-28
+TWR00551,Sukkur,Sindh,4G,Macro,Active,1500,2022-11-04
+TWR00552,Peshawar,KPK,4G/5G,Macro,Active,1500,2024-10-01
+TWR00553,Rawalpindi,Punjab,4G,Macro,Active,800,2020-08-13
+TWR00554,Karachi,Sindh,4G,Macro,Active,500,2026-06-20
+TWR00555,Faisalabad,Punjab,4G,Macro,Active,2000,2024-03-24
+TWR00556,Quetta,Balochistan,4G/5G,Rooftop,Maintenance,800,2024-08-21
+TWR00557,Gujrat,Punjab,4G,Rural Tower,Active,500,2020-04-02
+TWR00558,Multan,Punjab,4G,Macro,Active,2000,2021-11-09
+TWR00559,Mingora,KPK,4G/5G,Macro,Active,500,2018-09-11
+TWR00560,Rahim Yar Khan,Punjab,5G,Small Cell,Active,500,2024-02-18
+TWR00561,Sukkur,Sindh,4G,Rooftop,Active,1500,2025-03-23
+TWR00562,Sialkot,Punjab,4G,Macro,Active,2000,2023-09-15
+TWR00563,Mardan,KPK,4G,Macro,Degraded,2000,2019-09-01
+TWR00564,Bahawalpur,Punjab,4G,Macro,Active,300,2026-04-04
+TWR00565,Sukkur,Sindh,4G,Small Cell,Active,300,2020-04-27
+TWR00566,Gujrat,Punjab,4G/5G,Macro,Active,800,2021-02-26
+TWR00567,Sargodha,Punjab,4G,Small Cell,Active,800,2022-08-10
+TWR00568,Sukkur,Sindh,4G/5G,Macro,Active,800,2024-11-16
+TWR00569,Bahawalpur,Punjab,4G,Rooftop,Active,2000,2022-05-29
+TWR00570,Peshawar,KPK,4G/5G,Macro,Active,1000,2021-05-03
+TWR00571,Peshawar,KPK,4G/5G,Macro,Active,2000,2021-11-15
+TWR00572,Peshawar,KPK,4G,Macro,Maintenance,2000,2025-09-22
+TWR00573,Hyderabad,Sindh,4G,Macro,Active,1500,2018-02-04
+TWR00574,Quetta,Balochistan,4G,Macro,Active,500,2023-11-09
+TWR00575,Gujranwala,Punjab,5G,Rooftop,Active,800,2018-11-11
+TWR00576,Mardan,KPK,4G/5G,Rooftop,Active,2000,2021-06-29
+TWR00577,Abbottabad,KPK,4G,Rooftop,Maintenance,300,2019-06-11
+TWR00578,Faisalabad,Punjab,4G,Macro,Active,300,2019-11-12
+TWR00579,Quetta,Balochistan,4G,Macro,Active,1000,2024-10-15
+TWR00580,Bahawalpur,Punjab,4G,Macro,Degraded,1000,2021-03-25
+TWR00581,Abbottabad,KPK,5G,Rooftop,Active,300,2021-01-09
+TWR00582,Mardan,KPK,4G/5G,Rural Tower,Active,300,2021-11-02
+TWR00583,Quetta,Balochistan,4G,Small Cell,Active,1500,2019-09-19
+TWR00584,Gujrat,Punjab,4G,Rooftop,Active,1000,2021-01-20
+TWR00585,Mardan,KPK,4G/5G,Macro,Active,2000,2022-03-08
+TWR00586,Bahawalpur,Punjab,4G,Rooftop,Active,500,2025-05-06
+TWR00587,Gujrat,Punjab,4G,Macro,Active,300,2024-08-02
+TWR00588,Peshawar,KPK,4G,Macro,Active,2000,2026-06-12
+TWR00589,Hyderabad,Sindh,4G/5G,Small Cell,Active,1000,2023-11-23
+TWR00590,Gujranwala,Punjab,4G,Macro,Active,800,2021-07-20
+TWR00591,Abbottabad,KPK,4G,Rooftop,Active,300,2025-09-01
+TWR00592,Sahiwal,Punjab,4G,Macro,Active,500,2023-07-03
+TWR00593,Hyderabad,Sindh,4G/5G,Macro,Active,800,2020-05-12
+TWR00594,Sialkot,Punjab,4G/5G,Small Cell,Active,2000,2021-09-09
+TWR00595,Mardan,KPK,4G,Macro,Active,2000,2023-08-21
+TWR00596,Multan,Punjab,4G,Macro,Active,1500,2022-12-17
+TWR00597,Mingora,KPK,4G,Macro,Active,1500,2018-07-06
+TWR00598,Multan,Punjab,4G,Macro,Degraded,800,2018-12-09
+TWR00599,Gujranwala,Punjab,4G,Rural Tower,Active,800,2022-01-11
+TWR00600,Sargodha,Punjab,4G/5G,Macro,Active,300,2018-02-09
